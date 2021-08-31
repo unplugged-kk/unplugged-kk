@@ -27,6 +27,10 @@ Kishore Kumar is an engineer at heart. He is a cloud enthusiast, DevOps pro, K8S
 </p>
 
 
+### Github Stats
+
+[![Kishore Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=unplugged-kk&show_icons=true&count_private=true)](https://github.com/unplugged-kk)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
