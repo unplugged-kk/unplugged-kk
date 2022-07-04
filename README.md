@@ -11,7 +11,7 @@ Kishore Kumar is an engineer at heart. He is a cloud enthusiast, DevOps pro, K8S
    
 - 🔭 I’m currently working on all things research & consulting around DevOps and Computer Science that require my mind to go as deep as possible 
 - 💬 Ask me about DevOps, cloud engineering, kubernetes, security, content creation, public speaking, and collaborating with the world!
-- 📫 How to reach me: Twitter: @unplugged_kk or email: hello@kishorekumar.today
+- 📫 How to reach me: Twitter: @unplugged_kk or email: hello@kishorekumarbehera.com
 - 😄 Home Base: https://kishorekumar.today/
 
 </p>
