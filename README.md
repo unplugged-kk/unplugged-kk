@@ -6,7 +6,7 @@
 
 <div>
  <p>
-Kishore Kumar is an engineer at heart. He is a cloud enthusiast, DevOps pro, K8S Practictionor Trying to  help the tech community by blogging, LinkedIn Posts, Twitter Threads. Apart from Kishore spends his time clicking landscapes and study on personal finance.
+Kishore Kumar is an engineer at heart. He is a cloud enthusiast, DevOps Professional Trying to  help the tech community by blogging, LinkedIn Posts, Twitter Threads. Apart from Kishore spends his time clicking landscapes and study on personal finance.
    
    
 - 🔭 I’m currently working on all things research & consulting around DevOps and Computer Science that require my mind to go as deep as possible 
