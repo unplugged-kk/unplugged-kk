@@ -8,14 +8,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    node-version: 16.x
     name: Update this repo's README with recent activity
 
     steps:
       - uses: actions/checkout@v2
-      - uses: JamesIves/github-pages-deploy-action@4.1.1
+      - name: Update this repo's README with recent activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.UNPLUGGED_TOKEN }}
+          node-version: '16.x'
+        run: |
+          npx github-activity-readme
+      - name: Deploy README to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
           branch: main # The branch the action should deploy to.
           folder: '' # The folder the action should deploy.
           token: ${{ secrets.UNPLUGGED_TOKEN }} # GitHub token secret.
           clean: true # Automatically remove deleted files from the deploy branch.
-          commit_message: "Update README with recent activity" # Commit message for the deploy branch.
+          commit_message: "Update README with recent activity"
+
