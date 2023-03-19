@@ -8,7 +8,6 @@
 
 [![Twitter Followers](https://img.shields.io/badge/Twitter-1k-blue?style=social&logo=twitter)](https://twitter.com/Unplugged_kk)
 [![Linkedin Followers](https://img.shields.io/badge/LinkedIn-5k-blue?style=social&logo=linkedin)](https://linkedin.com/in/kishorekumarbehera)
->>>>>>> 88b21e8 (Updated profile)
 
 
 
