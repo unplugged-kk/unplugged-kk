@@ -53,7 +53,7 @@ For future use
 
 
 <!--END_SECTION:activity-->
-
+<br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
