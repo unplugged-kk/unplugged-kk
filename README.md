@@ -47,7 +47,7 @@ I am an engineer By heart currently working as MTS @ Salesforce. I am cloud & Te
 ⭐️ From [@unplugged-kk](https://github.com/unplugged-kk)
 
 
-=======
+<!-- =======
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
 
