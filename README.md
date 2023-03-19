@@ -11,7 +11,7 @@ I am an engineer By heart currently working as MTS @ Salesforce. I am cloud & Te
    
 - 🔭 I’m currently working on all things research & consulting around DevOps and Computer Science that require my mind to go as deep as possible 
 - 💬 Ask me about DevOps, cloud engineering, kubernetes, security
-- 📫 How to reach me: Twitter: @unplugged_kk or email: hello@kishorekumarbehera.com
+- 📫 How to reach me: Twitter: @unplugged_kk or email: hello@kishorekumar.today
 - 😄 Home Base: https://www.kishorekumar.today/
 
 </p>
