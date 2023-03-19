@@ -31,11 +31,9 @@ I am an engineer By heart currently working as MTS @ Salesforce. I am cloud & Te
 </p>
 
 
-### Github Stats
+### My Github Stats 📊
 
 [![Kishore Kumar GitHub Stats](https://github-readme-stats.vercel.app/api?username=unplugged-kk&show_icons=true&count_private=true)](https://github.com/unplugged-kk)
-
-### My Github Stats 📊
 
 [![](https://raw.githubusercontent.com/unplugged-kk/unplugged-kk/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/unplugged-kk/unplugged-kk/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/unplugged-kk/unplugged-kk/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
