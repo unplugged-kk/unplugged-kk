@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Hi there 👋 I'm [Kishore Kumar Behera]
 > Devops, Cloud Engineer
 =======
@@ -50,7 +50,7 @@ I am an engineer By heart currently working as MTS @ Salesforce. I am cloud & Te
 
 ⭐️ From [@unplugged-kk](https://github.com/unplugged-kk)
 
-<<<<<<< HEAD
+
 =======
 Here are some ideas to get you started:
 
@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> 88b21e8 (Updated profile)
+
