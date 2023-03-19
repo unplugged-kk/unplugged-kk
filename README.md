@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 ### Hi there 👋 I'm [Kishore Kumar Behera]
 > Devops, Cloud Engineer
+=======
+### Hi there I am [Kishore](https://www.kishorekumar.today/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/>
+
+[![Twitter Followers](https://img.shields.io/badge/Twitter-1k-blue?style=social&logo=twitter)](https://twitter.com/Unplugged_kk)
+[![Linkedin Followers](https://img.shields.io/badge/LinkedIn-5k-blue?style=social&logo=linkedin)](https://linkedin.com/in/kishorekumarbehera)
+>>>>>>> 88b21e8 (Updated profile)
 
 
 
@@ -42,3 +50,17 @@ I am an engineer By heart currently working as MTS @ Salesforce. I am cloud & Te
 
 ⭐️ From [@unplugged-kk](https://github.com/unplugged-kk)
 
+<<<<<<< HEAD
+=======
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 88b21e8 (Updated profile)
