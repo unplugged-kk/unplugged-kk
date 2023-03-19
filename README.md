@@ -48,6 +48,12 @@ For future use
 </a>
 -->
 
+### ✨ My Recent Activity
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
