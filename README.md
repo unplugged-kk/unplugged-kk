@@ -1,8 +1,4 @@
 
-### Hi there 👋 I'm [Kishore Kumar Behera]
-> Devops, Cloud Engineer
-
-
 ### Hi there I am [Kishore](https://www.kishorekumar.today/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
