@@ -10,7 +10,7 @@
 
 <div>
  <p>
-I am an engineer By heart currently working as MTS @ Salesforce. I am cloud & Tech enthusiast, DevOps Professional Trying to  help the tech community by blogging, LinkedIn Posts 
+I am an engineer By heart currently working as Senior Platform Engineer @ Maersk. I am cloud & Tech enthusiast, DevOps Professional Trying to  help the tech community by blogging, LinkedIn Posts 
    
    
 - 🔭 I’m currently working on all things research & consulting around DevOps and Computer Science that require my mind to go as deep as possible 
